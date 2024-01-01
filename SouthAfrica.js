@@ -113,6 +113,15 @@ color: "teal"
 });
 });
 
+//previous page 
+function somalia(){
+open("https://salmandascript.github.io/Somalia/Somalia.html");
+}
+
+//next page 
+function southSudan(){
+open("https://salmandascript.github.io/SouthSudan/SouthSudan.html");
+}
 
 
 //quizz questions code 
